@@ -1,2 +1,2 @@
 # u3314160_Assignment-1/Pet-Feeder-Project
-Step-1
+This project introduces an automated pet feeder designed for animal shelters. The system uses a real-time clock to dispense food for cats and dogs at set times, with a servo motor controlling the release. Sensors track food levels and pet activity, sending alerts if food isn’t dispensed properly or goes uneaten. All feeding events and issues are logged for easy monitoring. By automating routine feeding, the feeder supports consistent animal care while reducing staff workload. The design is low-cost, scalable, and simple to maintain, making it practical for shelters. Future upgrades could include smart scheduling, mobile alerts, and cloud data integration to enhance its effectiveness.
