@@ -1,0 +1,6 @@
+Features: Scheduled Feeding (e.g. 6am, 11am, 3pm etc.), Food Consumption Monitoring, Alert for an issue.
+Input: Real-time clock, Food level sensor, Weight sensor under bowl, Feed Quantity, Pet type
+Output: Servo motor, Alert system, Feeding log
+Assumptions: Sensors are reliable, Animals eat individually, feeding times are fixed
+Expected Outcome: Food is dispensed on time, consumption is tracked, staff alerted if issues occur.
+Sketch: Block diagram — RTC + Sensor → Logic Unit → Servo + Alert + Log System
