@@ -1,3 +1,4 @@
+Step 2: Organise and Describe the Data
 Features: Scheduled Feeding (e.g. 6am, 11am, 3pm etc.), Food Consumption Monitoring, Alert for an issue.
 Input: Real-time clock, Food level sensor, Weight sensor under bowl, Feed Quantity, Pet type
 Output: Servo motor, Alert system, Feeding log
