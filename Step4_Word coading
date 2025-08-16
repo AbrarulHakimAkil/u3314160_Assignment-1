@@ -1,0 +1,10 @@
+Step 4: Implement the Solution (Word Coding)
+	Read current time from Real Time Clock (input).
+	If time matches feeding schedule, then read the sensor data and check the food level
+	If there is food in Container then activate servo to dispense food. 
+	Check sensor to confirm food was dispensed. If not dispensed, trigger the alert.
+	Monitor consumption for a set time (e.g., 10 minutes). 
+	If food not eaten, trigger alert and log issue.
+	If food eaten, log success and update feeding history. 
+	All transactions are stored in a database called “FeedingLog”.
+
